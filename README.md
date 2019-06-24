@@ -5,5 +5,5 @@ To run this project
 
 First
 
-docker-compose build
+docker-compose build then 
 docker-compose up
